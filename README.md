@@ -1,3 +1,1 @@
-# ManualGrade
-
-Without automatic tests.
+# Abstraktno sintaktično drevo 4.1
